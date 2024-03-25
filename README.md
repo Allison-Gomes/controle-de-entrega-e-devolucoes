@@ -4,23 +4,23 @@ Controle logístico, utilizando Excel, SQL e Power BI. Para demonstrar em Dashbo
 
 Inicio do projeto:
 	• Entendimento do que será feito
-		○ Estudo de entregas, referente aos meses de junho e julho de 2023. Por ser os dois meses com maior criticidade nas entregas. Tendo o maior número de entregas feitas em atraso. Intuito do estudo: analisar a maior dificuldade, entre transportadoras e regiões. Visando melhorar os números e a satisfação dos clientes em 2024.
-		○ View das devoluções
-		○ Dados fictícios, criados por Allison Gomes
+		Estudo de entregas, referente aos meses de junho e julho de 2023. Por ser os dois meses com maior criticidade nas entregas. Tendo o maior número de entregas feitas em atraso. Intuito do estudo: analisar a maior dificuldade, entre transportadoras e regiões. Visando melhorar os números e a satisfação dos clientes em 2024.
+		View das devoluções
+		Dados fictícios, criados por Allison Gomes
 	
 • Etapas descritas do Notion
 ![image](https://github.com/Allison-Gomes/controle-de-entrega-e-devolucoes/assets/126164923/c8ca7fee-74a6-44af-a3b8-bc90f8d260cc)
 
 • Documentação
-	○ Definição: Notion
-	○ Modelagem: Lucidchart
-	○ Banco de dados: SQL
-	○ Dashboard: Power BI
+	Definição: Notion
+	Modelagem: Lucidchart
+	Banco de dados: SQL
+	Dashboard: Power BI
 • Criar os relatórios no SQL e vincula-los
-	○ Relatório das NFs
-	○ Relatório de Regiões
+	Relatório das NFs
+	Relatório de Regiões
 • Excel
-	○ Relatório de Devoluções
+	Relatório de Devoluções
 • Vincular no Power BI e gerar apresentação
 
 • Modelagem das tabelas: Lucidchart
@@ -81,14 +81,14 @@ CREATE TABLE [REGIOES] (
 
 Input dos dados nas tabelas:
 • Base de notas
-	○ Input automático
+	Input automático
 Baixar planilha (Excel Web) como .csv e vincular no SQL (Arquivo > Abrir > Arquivo = NovaBase3_SQL)
 F5
 ![image](https://github.com/Allison-Gomes/controle-de-entrega-e-devolucoes/assets/126164923/e1d287a4-90de-4927-a6cc-400be34f5135)
 
 
 • Regiões 
-	○ Input manual
+	Input manual
 ![image](https://github.com/Allison-Gomes/controle-de-entrega-e-devolucoes/assets/126164923/3b1cfb11-fa14-48b8-92b3-02db15d2a4eb)
 
 
