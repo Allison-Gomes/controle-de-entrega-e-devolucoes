@@ -1,6 +1,6 @@
 <h1 align="center"> Controle Logístico de Entregas e Devoluções </h1>
 
-<p> Entendimento do projeto:
+<p> <h3> Entendimento do projeto: </h3>
 <li> Estudo de entregas, referente aos meses de junho e julho de 2023. Por ser os dois meses com maior criticidade nas entregas. Tendo o maior número de entregas feitas em atraso. </li>
 Intuito do estudo: analisar a maior dificuldade, entre transportadoras e regiões. Visando melhorar os números e a satisfação dos clientes em 2024. </li>
 <li> Incluir uma aba informando as devoluções. </li>
