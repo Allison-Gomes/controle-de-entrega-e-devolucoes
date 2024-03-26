@@ -8,6 +8,7 @@ Intuito do estudo: analisar a maior dificuldade, entre transportadoras e regiõe
 </p>
 
 <h4> Etapas descritas do Notion </h4>
+
 ![image](https://github.com/Allison-Gomes/controle-de-entrega-e-devolucoes/assets/126164923/c8ca7fee-74a6-44af-a3b8-bc90f8d260cc)
 
 <p>
