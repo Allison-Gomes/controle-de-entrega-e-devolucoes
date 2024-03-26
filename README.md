@@ -10,20 +10,21 @@ Intuito do estudo: analisar a maior dificuldade, entre transportadoras e regiõe
 Etapas descritas do Notion
 ![image](https://github.com/Allison-Gomes/controle-de-entrega-e-devolucoes/assets/126164923/c8ca7fee-74a6-44af-a3b8-bc90f8d260cc)
 
+<p>
+<li> Documentação <li/>
+Definição: Notion 
+Modelagem: Lucidchart 
+Banco de dados: SQL
+Dashboard: Power BI
+<li> Criar os relatórios no SQL e vincula-los <li/>
+Relatório das NFs
+Relatório de Regiões
+<li> Excel </li>
+Relatório de Devoluções
+<li> Vincular no Power BI e gerar apresentação </li>
+</p>
 
-• Documentação <br/>
-Definição: Notion <br/>
-Modelagem: Lucidchart <br/>
-Banco de dados: SQL <br/>
-Dashboard: Power BI <br/>
-• Criar os relatórios no SQL e vincula-los <br/>
-Relatório das NFs <br/>
-Relatório de Regiões <br/>
-• Excel <br/>
-Relatório de Devoluções <br/>
-• Vincular no Power BI e gerar apresentação <br/>
-
-• Modelagem das tabelas: Lucidchart <br/>
+Modelagem das tabelas: Lucidchart <br/>
 ![image](https://github.com/Allison-Gomes/controle-de-entrega-e-devolucoes/assets/126164923/57def20a-dbce-46a7-91b2-066fdf66b116)
 
 
