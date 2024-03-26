@@ -2,7 +2,7 @@ Controle Logístico de Entregas e Devoluções
 
 Entendimento do projeto: <br/>
 • Estudo de entregas, referente aos meses de junho e julho de 2023. Por ser os dois meses com maior criticidade nas entregas. Tendo o maior número de entregas feitas em atraso. <br/>
-	Intuito do estudo: analisar a maior dificuldade, entre transportadoras e regiões. Visando melhorar os números e a satisfação dos clientes em 2024. <br/>
+	• Intuito do estudo: analisar a maior dificuldade, entre transportadoras e regiões. Visando melhorar os números e a satisfação dos clientes em 2024. <br/>
 • Incluir uma aba informando as devoluções. <br/>
 • Dados fictícios, criados por Allison Gomes. <br/>
 	
