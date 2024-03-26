@@ -7,9 +7,9 @@ Intuito do estudo: analisar a maior dificuldade, entre transportadoras e regiõe
 <li> Dados fictícios, criados por Allison Gomes. </li>
 </p>
 
-<p> Etapas descritas do Notion
-<img> ![image](https://github.com/Allison-Gomes/controle-de-entrega-e-devolucoes/assets/126164923/c8ca7fee-74a6-44af-a3b8-bc90f8d260cc)
-</p>
+Etapas descritas do Notion
+![image](https://github.com/Allison-Gomes/controle-de-entrega-e-devolucoes/assets/126164923/c8ca7fee-74a6-44af-a3b8-bc90f8d260cc)
+
 
 • Documentação <br/>
 Definição: Notion <br/>
