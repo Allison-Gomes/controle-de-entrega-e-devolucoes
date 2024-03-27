@@ -158,11 +158,11 @@ Tabela BASE_DE_NOTAS e REGIÕES importadas do SQL e tabela das Devoluções impo
 
 
 <div> <h4> Paleta de cores <h4/>
-<ol> 1° Cor: #12122B </ol>
-<ol> 2° Cor: #383845 </ol>
-<ol> 3° Cor: #5E5E5E </ol>
-<ol> 4° Cor: #848478 </ol>
-<ol> 5° Cor: #D3D3B9 </ol> </div>
+1° Cor: #12122B
+2° Cor: #383845
+3° Cor: #5E5E5E
+4° Cor: #848478
+5° Cor: #D3D3B9 </div>
 
 
 <h3> Resultado Dashboard <h3/>
