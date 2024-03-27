@@ -14,15 +14,15 @@
 
 <div> <ul>
 <li> Documentação </li>
-<li text-decoration=none;> Definição: Notion </li>
-<li> Modelagem: Lucidchart </li>
-<li> Banco de dados: SQL </li>
-<li> Dashboard: Power BI </li>
+<ol> Definição: Notion </ol>
+<ol> Modelagem: Lucidchart </ol>
+<ol> Banco de dados: SQL </ol>
+<ol> Dashboard: Power BI </ol>
 <li> Criar os relatórios no SQL e vincula-los </li>
-Relatório das NFs
-Relatório de Regiões
+<ol> Relatório das NFs </ol>
+<ol> Relatório de Regiões </ol>
 <li> Excel </li>
-Relatório de Devoluções
+<ol> Relatório de Devoluções </ol>
 <li> Vincular no Power BI e gerar apresentação </li>
 </ul> </div>
 
