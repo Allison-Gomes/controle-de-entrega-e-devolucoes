@@ -8,9 +8,6 @@
 <li> Dados fictícios, criados por Allison Gomes. </li>
 </ul>
 
-<h4> Etapas descritas do Notion </h4>
-
-![image](https://github.com/Allison-Gomes/controle-de-entrega-e-devolucoes/assets/126164923/c8ca7fee-74a6-44af-a3b8-bc90f8d260cc)
 
 <div> <ul>
 <li> Documentação </li>
@@ -25,6 +22,12 @@
 <ol> Relatório de Devoluções </ol>
 <li> Vincular no Power BI e gerar apresentação </li>
 </ul> </div>
+
+
+<h4> Etapas descritas do Notion </h4>
+
+![image](https://github.com/Allison-Gomes/controle-de-entrega-e-devolucoes/assets/126164923/c8ca7fee-74a6-44af-a3b8-bc90f8d260cc)
+
 
 <h4> Modelagem das tabelas: Lucidchart </h4>
 
