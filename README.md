@@ -72,6 +72,7 @@ CREATE TABLE [BASE DE NOTAS] ( <br>
 [CONDIÇÃO DE FRETE] [CHAR] (9), <br/>
 [NATUREZA DA MERCADORIA] [CHAR] (21), <br/>
 ); <br/>
+
 ![image](https://github.com/Allison-Gomes/controle-de-entrega-e-devolucoes/assets/126164923/540ec89b-197a-4314-8f6c-c2907b93eeb0)
 
 
