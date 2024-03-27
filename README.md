@@ -76,29 +76,32 @@ CREATE TABLE [BASE DE NOTAS] ( <br>
 ![image](https://github.com/Allison-Gomes/controle-de-entrega-e-devolucoes/assets/126164923/540ec89b-197a-4314-8f6c-c2907b93eeb0)
 
 
-<h4> Criação da tabela REGIÕES <h4/>
-CREATE TABLE [REGIOES] ( <br/>
-[SIGLA] [CHAR] (2) NOT NULL PRIMARY KEY, <br/>
-[REGIÃO] [VARCHAR] (12), <br/>
-[BRASIL + SIGLA] [CHAR] (11), <br/>
-[ESTADO] [VARCHAR] (25), <br/>
-[CAPITAL] [VARCHAR] (25), <br/>
-[LATITUDE] [FLOAT], <br/>
-[LONGITUDE] [FLOAT], <br/>
-); <br/>
+<div> <h4> Criação da tabela REGIÕES <h4/>
+CREATE TABLE [REGIOES] ( <br>
+[SIGLA] [CHAR] (2) NOT NULL PRIMARY KEY, <br>
+[REGIÃO] [VARCHAR] (12), <br>
+[BRASIL + SIGLA] [CHAR] (11), <br>
+[ESTADO] [VARCHAR] (25), <br>
+[CAPITAL] [VARCHAR] (25), <br>
+[LATITUDE] [FLOAT], <br>
+[LONGITUDE] [FLOAT], <br>
+); <br> </div>
+  
 ![image](https://github.com/Allison-Gomes/controle-de-entrega-e-devolucoes/assets/126164923/6ed5c236-11af-466f-b8b6-2228a02a4b49)
 
 
-<h4> Input dos dados nas tabelas: <h4/>
-• Base de notas <br/>
-Input automático <br/>
-Baixar planilha (Excel Web) como .csv e vincular no SQL (Arquivo > Abrir > Arquivo = NovaBase3_SQL) <br/>
-F5 <br/>
+<div> <h4> Input dos dados nas tabelas: <h4/>
+<li> Base de notas </li>
+<ol> Input automático </ol>
+<ol> Baixar planilha (Excel Web) como .csv e vincular no SQL (Arquivo > Abrir > Arquivo = NovaBase3_SQL) </ol>
+<ol> F5 </ol> </div>
+  
 ![image](https://github.com/Allison-Gomes/controle-de-entrega-e-devolucoes/assets/126164923/e1d287a4-90de-4927-a6cc-400be34f5135)
 
 
-• Regiões <br/>
-Input manual <br/>
+<li> Regiões </li>
+<ol> Input manual </ol>
+
 ![image](https://github.com/Allison-Gomes/controle-de-entrega-e-devolucoes/assets/126164923/3b1cfb11-fa14-48b8-92b3-02db15d2a4eb)
 
 
