@@ -14,8 +14,8 @@
 
 <div> <ul>
 <li> Documentação </li>
-<ol> Definição: Notion </ol>
-<ol> Modelagem: Lucidchart </ol>
+<ol> Definição: NOTION </ol>
+<ol> Modelagem: LUCIDCHART </ol>
 <ol> Banco de dados: SQL </ol>
 <ol> Dashboard: Power BI </ol>
 <li> Criar os relatórios no SQL e vincula-los </li>
