@@ -142,7 +142,7 @@ Tabela BASE_DE_NOTAS e REGIÕES importadas do SQL e tabela das Devoluções impo
 
 
 <h4> Coluna criada para otimizar e melhorar a apresentação dos status das entregas <h4/>
-
+  
 ![image](https://github.com/Allison-Gomes/controle-de-entrega-e-devolucoes/assets/126164923/ab3c9811-951d-42c0-94db-bd066c83c8df)
 
 
@@ -155,9 +155,8 @@ Tabela BASE_DE_NOTAS e REGIÕES importadas do SQL e tabela das Devoluções impo
 
 
 <h3> Resultado Dashboard <h3/>
+https://app.powerbi.com/view?r=eyJrIjoiYmVlYWJlYTItMWQzYi00MjBkLTg4MjQtNzI1YjVkNjhmNTA3IiwidCI6IjlkOTQwNWRlLTYwNTctNDM2MS1hMTMwLWM0ZTZlYTdjMjk4MCJ9 <br/>
 
-https://app.powerbi.com/view?r=eyJrIjoiYmVlYWJlYTItMWQzYi00MjBkLTg4MjQtNzI1YjVkNjhmNTA3IiwidCI6IjlkOTQwNWRlLTYwNTctNDM2MS1hMTMwLWM0ZTZlYTdjMjk4MCJ9
-
-![image](https://github.com/Allison-Gomes/controle-de-entrega-e-devolucoes/assets/126164923/3e2f031c-23b7-479e-a7ef-fe2b29366189)
-
+![image](https://github.com/Allison-Gomes/controle-de-entrega-e-devolucoes/assets/126164923/3e2f031c-23b7-479e-a7ef-fe2b29366189) <br/>
+  
 ![image](https://github.com/Allison-Gomes/controle-de-entrega-e-devolucoes/assets/126164923/607c11ed-b8bf-42e9-8a5e-b59c55f0fc29)
