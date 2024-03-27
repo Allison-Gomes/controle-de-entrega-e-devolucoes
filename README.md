@@ -162,7 +162,7 @@ Tabela BASE_DE_NOTAS e REGIÕES importadas do SQL e tabela das Devoluções impo
 2° Cor: #383845 <br>
 3° Cor: #5E5E5E <br>
 4° Cor: #848478 <br>
-5° Cor: #D3D3B9 <br> </div>
+5° Cor: #D3D3B9 <br> <br> </div>
 
 
 <h3> Resultado Dashboard <h3/>
