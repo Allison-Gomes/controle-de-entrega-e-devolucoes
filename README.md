@@ -166,8 +166,8 @@ Tabela BASE_DE_NOTAS e REGIÕES importadas do SQL e tabela das Devoluções impo
 
 
 <h3> Resultado Dashboard <h3/>
-Link Power BI: <link rel="DASHBOARD" href="https://app.powerbi.com/view?r=eyJrIjoiYmVlYWJlYTItMWQzYi00MjBkLTg4MjQtNzI1YjVkNjhmNTA3IiwidCI6IjlkOTQwNWRlLTYwNTctNDM2MS1hMTMwLWM0ZTZlYTdjMjk4MCJ9
-">
+Link Power BI: <a href="https://app.powerbi.com/view?r=eyJrIjoiYmVlYWJlYTItMWQzYi00MjBkLTg4MjQtNzI1YjVkNjhmNTA3IiwidCI6IjlkOTQwNWRlLTYwNTctNDM2MS1hMTMwLWM0ZTZlYTdjMjk4MCJ9
+">DASHBOARD</a>
 
 
 ![image](https://github.com/Allison-Gomes/controle-de-entrega-e-devolucoes/assets/126164923/3e2f031c-23b7-479e-a7ef-fe2b29366189) <br/>
