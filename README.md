@@ -1,23 +1,24 @@
 <h1 align="center"> Controle Logístico de Entregas e Devoluções </h1>
 
-<p> <h3> Entendimento do projeto: </h3>
+<h3> Entendimento do projeto: </h3>
+<ul>
 <li> Estudo de entregas, referente aos meses de junho e julho de 2023. Por ser os dois meses com maior criticidade nas entregas. Tendo o maior número de entregas feitas em atraso. </li>
 Intuito do estudo: analisar a maior dificuldade, entre transportadoras e regiões. Visando melhorar os números e a satisfação dos clientes em 2024. </li>
 <li> Incluir uma aba informando as devoluções. </li>
 <li> Dados fictícios, criados por Allison Gomes. </li>
-</p>
+</ul>
 
 <h4> Etapas descritas do Notion </h4>
 
 ![image](https://github.com/Allison-Gomes/controle-de-entrega-e-devolucoes/assets/126164923/c8ca7fee-74a6-44af-a3b8-bc90f8d260cc)
 
 <p>
-<li> Documentação <li/>
+<li> Documentação </li>
 Definição: Notion 
 Modelagem: Lucidchart 
 Banco de dados: SQL
 Dashboard: Power BI
-<li> Criar os relatórios no SQL e vincula-los <li/>
+<li> Criar os relatórios no SQL e vincula-los </li>
 Relatório das NFs
 Relatório de Regiões
 <li> Excel </li>
@@ -25,15 +26,15 @@ Relatório de Devoluções
 <li> Vincular no Power BI e gerar apresentação </li>
 </p>
 
-<h4> Modelagem das tabelas: Lucidchart <h4/>
+<h4> Modelagem das tabelas: Lucidchart </h4>
 
 ![image](https://github.com/Allison-Gomes/controle-de-entrega-e-devolucoes/assets/126164923/57def20a-dbce-46a7-91b2-066fdf66b116)
 
 
-<h3> Banco de dados: SQL <h3/>
+<h3> Banco de dados: SQL </h3>
 
-<h4> Criação da tabela BASE DE NOTAS <h4/>
-CREATE TABLE [BASE DE NOTAS] ( <br/>
+<h4> Criação da tabela BASE DE NOTAS </h4>
+CREATE TABLE [BASE DE NOTAS] ( <br>
 [RAZAO SOCIAL TRANSPORTADOR] [VARCHAR] (150), <br/>
 [NOME FANTASIA] [VARCHAR] (100), <br/>
 [CNPJ TRANSPORTADOR] [CHAR] (14), <br/>
