@@ -166,7 +166,7 @@ Tabela BASE_DE_NOTAS e REGIÕES importadas do SQL e tabela das Devoluções impo
 
 
 <h3> Resultado Dashboard <h3/>
-Link Power BI: [DASHBOARD](https://app.powerbi.com/view?r=eyJrIjoiYmVlYWJlYTItMWQzYi00MjBkLTg4MjQtNzI1YjVkNjhmNTA3IiwidCI6IjlkOTQwNWRlLTYwNTctNDM2MS1hMTMwLWM0ZTZlYTdjMjk4MCJ9)
+Link Power BI: [DASHBOARD]: https://app.powerbi.com/view?r=eyJrIjoiYmVlYWJlYTItMWQzYi00MjBkLTg4MjQtNzI1YjVkNjhmNTA3IiwidCI6IjlkOTQwNWRlLTYwNTctNDM2MS1hMTMwLWM0ZTZlYTdjMjk4MCJ9
 
 
 
