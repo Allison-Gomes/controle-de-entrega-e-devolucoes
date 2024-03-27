@@ -25,12 +25,14 @@ Relatório de Devoluções
 <li> Vincular no Power BI e gerar apresentação </li>
 </p>
 
-Modelagem das tabelas: Lucidchart <br/>
+<h4> Modelagem das tabelas: Lucidchart <h4/>
+
 ![image](https://github.com/Allison-Gomes/controle-de-entrega-e-devolucoes/assets/126164923/57def20a-dbce-46a7-91b2-066fdf66b116)
 
 
-Banco de dados: SQL <br/>
-• Criação da tabela BASE DE NOTAS <br/>
+<h3> Banco de dados: SQL <h3/>
+
+<h4> Criação da tabela BASE DE NOTAS <h4/>
 CREATE TABLE [BASE DE NOTAS] ( <br/>
 [RAZAO SOCIAL TRANSPORTADOR] [VARCHAR] (150), <br/>
 [NOME FANTASIA] [VARCHAR] (100), <br/>
@@ -68,7 +70,7 @@ CREATE TABLE [BASE DE NOTAS] ( <br/>
 ![image](https://github.com/Allison-Gomes/controle-de-entrega-e-devolucoes/assets/126164923/540ec89b-197a-4314-8f6c-c2907b93eeb0)
 
 
-• Criação da tabela REGIÕES <br/>
+<h4> Criação da tabela REGIÕES <h4/>
 CREATE TABLE [REGIOES] ( <br/>
 [SIGLA] [CHAR] (2) NOT NULL PRIMARY KEY, <br/>
 [REGIÃO] [VARCHAR] (12), <br/>
@@ -81,7 +83,7 @@ CREATE TABLE [REGIOES] ( <br/>
 ![image](https://github.com/Allison-Gomes/controle-de-entrega-e-devolucoes/assets/126164923/6ed5c236-11af-466f-b8b6-2228a02a4b49)
 
 
-Input dos dados nas tabelas: <br/>
+<h4> Input dos dados nas tabelas: <h4/>
 • Base de notas <br/>
 Input automático <br/>
 Baixar planilha (Excel Web) como .csv e vincular no SQL (Arquivo > Abrir > Arquivo = NovaBase3_SQL) <br/>
@@ -94,19 +96,23 @@ Input manual <br/>
 ![image](https://github.com/Allison-Gomes/controle-de-entrega-e-devolucoes/assets/126164923/3b1cfb11-fa14-48b8-92b3-02db15d2a4eb)
 
 
-Conferência da quantidade de linhas lançadas <br/>
+<h4> Conferência da quantidade de linhas lançadas <h4/>
+  
 ![image](https://github.com/Allison-Gomes/controle-de-entrega-e-devolucoes/assets/126164923/2f51234f-aaa6-4b0d-b8a0-b70c749e8a8e)
 
 
-Desenho do esquema do banco de dados criado <br/>
+<h4> Desenho do esquema do banco de dados criado <h4/>
+
 ![image](https://github.com/Allison-Gomes/controle-de-entrega-e-devolucoes/assets/126164923/1ab69070-0303-4115-adf9-8933f898bb8f)
 
 
-Otimizando a visualização, alterando o nome de algumas colunas, e utilizando filtro <br/>
+<h4> Otimizando a visualização, alterando o nome de algumas colunas, e utilizando filtro <h4/>
+
 ![image](https://github.com/Allison-Gomes/controle-de-entrega-e-devolucoes/assets/126164923/20a54eea-3189-4237-8510-1c63fdf392b0)
 
 
-Efetuando a junção entre as tabelas BASE_DE_NOTAS e REGIOES (INNER JOIN) <br/>
+<h4> Efetuando a junção entre as tabelas BASE_DE_NOTAS e REGIOES <bold>(INNER JOIN)</bold> <h4/>
+
 ![image](https://github.com/Allison-Gomes/controle-de-entrega-e-devolucoes/assets/126164923/1d5e539a-048a-438c-920c-6b967175d2d5) <br/>
 SELECT <br/>
 B.[NOME FANTASIA] AS [TRANSPORTADORA], <br/>
@@ -125,20 +131,22 @@ INNER JOIN [REGIOES] R ON <br/>
 B.[UF DESTINO] = R.[SIGLA]; <br/>
 
 
-POWER BI <br/>
+<h3> POWER BI </h3>
 Tabela BASE_DE_NOTAS e REGIÕES importadas do SQL e tabela das Devoluções importadas diretamente do Excel <br/>
 ![image](https://github.com/Allison-Gomes/controle-de-entrega-e-devolucoes/assets/126164923/79de3e8d-66cd-48d5-b475-55a808ecb8b0)
 
 
-Criado uma nova coluna, FATURAMENTO TOTAL, contemplando [peso * valor unitario] <br/>
+<h4> Criado uma nova coluna, FATURAMENTO TOTAL, contemplando [peso * valor unitario] <h4/>
+
 ![image](https://github.com/Allison-Gomes/controle-de-entrega-e-devolucoes/assets/126164923/632613c8-70b1-4baf-9420-9dfc39d62546)
 
 
-Coluna criada para otimizar e melhorar a apresentação dos status das entregas <br/>
+<h4> Coluna criada para otimizar e melhorar a apresentação dos status das entregas <h4/>
+
 ![image](https://github.com/Allison-Gomes/controle-de-entrega-e-devolucoes/assets/126164923/ab3c9811-951d-42c0-94db-bd066c83c8df)
 
 
-Definição da paleta de cores <br/>
+<h4> Definição da paleta de cores <h4/>
 1° Cor: #12122B <br/>
 2° Cor: #383845 <br/>
 3° Cor: #5E5E5E <br/>
@@ -146,8 +154,10 @@ Definição da paleta de cores <br/>
 5° Cor: #D3D3B9 <br/>
 
 
-Resultado Dashboard <br/>
-https://app.powerbi.com/view?r=eyJrIjoiYmVlYWJlYTItMWQzYi00MjBkLTg4MjQtNzI1YjVkNjhmNTA3IiwidCI6IjlkOTQwNWRlLTYwNTctNDM2MS1hMTMwLWM0ZTZlYTdjMjk4MCJ9 <br/>
-![image](https://github.com/Allison-Gomes/controle-de-entrega-e-devolucoes/assets/126164923/3e2f031c-23b7-479e-a7ef-fe2b29366189) <br/>
+<h3> Resultado Dashboard <h3/>
+
+https://app.powerbi.com/view?r=eyJrIjoiYmVlYWJlYTItMWQzYi00MjBkLTg4MjQtNzI1YjVkNjhmNTA3IiwidCI6IjlkOTQwNWRlLTYwNTctNDM2MS1hMTMwLWM0ZTZlYTdjMjk4MCJ9
+
+![image](https://github.com/Allison-Gomes/controle-de-entrega-e-devolucoes/assets/126164923/3e2f031c-23b7-479e-a7ef-fe2b29366189)
 
 ![image](https://github.com/Allison-Gomes/controle-de-entrega-e-devolucoes/assets/126164923/607c11ed-b8bf-42e9-8a5e-b59c55f0fc29)
