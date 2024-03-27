@@ -120,32 +120,34 @@ CREATE TABLE [REGIOES] ( <br>
 ![image](https://github.com/Allison-Gomes/controle-de-entrega-e-devolucoes/assets/126164923/20a54eea-3189-4237-8510-1c63fdf392b0)
 
 
-<h4> Efetuando a junção entre as tabelas BASE_DE_NOTAS e REGIOES <bold>(INNER JOIN)</bold> <h4/>
+<h4> Efetuando a junção entre as tabelas BASE_DE_NOTAS e REGIOES (INNER JOIN) <h4/>
 
-![image](https://github.com/Allison-Gomes/controle-de-entrega-e-devolucoes/assets/126164923/1d5e539a-048a-438c-920c-6b967175d2d5) <br/>
-SELECT <br/>
-B.[NOME FANTASIA] AS [TRANSPORTADORA], <br/>
-B.[EMBARCADOR], <br/>
-B.[QTD VOLUMES] [VOLUMES], <br/>
-B.[PESO], <br/>
-B.[VALOR UNITARIO], <br/>
-B.[CLIENTE], <br/>
-B.[CIDADE DESTINO], <br/>
-R.[SIGLA] AS [UF], <br/>
-B.[STATUS DE ENTREGA], <br/>
-R.[REGIÃO], <br/>
-R.[BRASIL + SIGLA] AS [BR+SIGLA] <br/>
-FROM [BASE_DE_NOTAS] B <br/>
-INNER JOIN [REGIOES] R ON <br/>
-B.[UF DESTINO] = R.[SIGLA]; <br/>
+![image](https://github.com/Allison-Gomes/controle-de-entrega-e-devolucoes/assets/126164923/1d5e539a-048a-438c-920c-6b967175d2d5) <br>
+
+SELECT <br>
+B.[NOME FANTASIA] AS [TRANSPORTADORA], <br>
+B.[EMBARCADOR], <br>
+B.[QTD VOLUMES] [VOLUMES], <br>
+B.[PESO], <br>
+B.[VALOR UNITARIO], <br>
+B.[CLIENTE], <br>
+B.[CIDADE DESTINO], <br>
+R.[SIGLA] AS [UF], <br>
+B.[STATUS DE ENTREGA], <br>
+R.[REGIÃO], <br>
+R.[BRASIL + SIGLA] AS [BR+SIGLA] <br>
+FROM [BASE_DE_NOTAS] B <br>
+INNER JOIN [REGIOES] R ON <br>
+B.[UF DESTINO] = R.[SIGLA]; <br>
 
 
 <h3> POWER BI </h3>
-Tabela BASE_DE_NOTAS e REGIÕES importadas do SQL e tabela das Devoluções importadas diretamente do Excel <br/>
+Tabela BASE_DE_NOTAS e REGIÕES importadas do SQL e tabela das Devoluções importadas diretamente do Excel <br>
+
 ![image](https://github.com/Allison-Gomes/controle-de-entrega-e-devolucoes/assets/126164923/79de3e8d-66cd-48d5-b475-55a808ecb8b0)
 
 
-<h4> Criado uma nova coluna, FATURAMENTO TOTAL, contemplando [peso * valor unitario] <h4/>
+<h4> Criando uma nova coluna, FATURAMENTO TOTAL, contemplando [peso * valor unitario] <h4/>
 
 ![image](https://github.com/Allison-Gomes/controle-de-entrega-e-devolucoes/assets/126164923/632613c8-70b1-4baf-9420-9dfc39d62546)
 
@@ -155,16 +157,17 @@ Tabela BASE_DE_NOTAS e REGIÕES importadas do SQL e tabela das Devoluções impo
 ![image](https://github.com/Allison-Gomes/controle-de-entrega-e-devolucoes/assets/126164923/ab3c9811-951d-42c0-94db-bd066c83c8df)
 
 
-<h4> Definição da paleta de cores <h4/>
-1° Cor: #12122B <br/>
-2° Cor: #383845 <br/>
-3° Cor: #5E5E5E <br/>
-4° Cor: #848478 <br/>
-5° Cor: #D3D3B9 <br/>
+<div> <h4> Paleta de cores <h4/>
+<ol> 1° Cor: #12122B </ol>
+<ol> 2° Cor: #383845 </ol>
+<ol> 3° Cor: #5E5E5E </ol>
+<ol> 4° Cor: #848478 </ol>
+<ol> 5° Cor: #D3D3B9 </ol> </div>
 
 
 <h3> Resultado Dashboard <h3/>
-https://app.powerbi.com/view?r=eyJrIjoiYmVlYWJlYTItMWQzYi00MjBkLTg4MjQtNzI1YjVkNjhmNTA3IiwidCI6IjlkOTQwNWRlLTYwNTctNDM2MS1hMTMwLWM0ZTZlYTdjMjk4MCJ9 <br/>
+Link Power BI: [DASHBOARD](https://app.powerbi.com/view?r=eyJrIjoiYmVlYWJlYTItMWQzYi00MjBkLTg4MjQtNzI1YjVkNjhmNTA3IiwidCI6IjlkOTQwNWRlLTYwNTctNDM2MS1hMTMwLWM0ZTZlYTdjMjk4MCJ9).
+
 
 ![image](https://github.com/Allison-Gomes/controle-de-entrega-e-devolucoes/assets/126164923/3e2f031c-23b7-479e-a7ef-fe2b29366189) <br/>
   
