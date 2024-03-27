@@ -14,10 +14,10 @@ Intuito do estudo: analisar a maior dificuldade, entre transportadoras e regiõe
 
 <div> <ul>
 <li> Documentação </li>
-<ld> Definição: Notion </ld>
-<ld> Modelagem: Lucidchart </ld>
-<ld> Banco de dados: SQL </ld>
-<ld> Dashboard: Power BI </ld>
+<li text-decoration: none> Definição: Notion </li>
+<li> Modelagem: Lucidchart </li>
+<li> Banco de dados: SQL </li>
+<li> Dashboard: Power BI </li>
 <li> Criar os relatórios no SQL e vincula-los </li>
 Relatório das NFs
 Relatório de Regiões
