@@ -1,6 +1,15 @@
 <h1 align="center"> Controle Logístico de Entregas e Devoluções </h1>
 
-<div> <h3> Etapas do projeto </h3>
+
+<h3> Entendimento do projeto: </h3>
+<ul>
+<li> Estudo de entregas, referente aos meses de junho e julho de 2023. Por ser os dois meses com maior criticidade nas entregas. Tendo o maior número de entregas feitas em atraso. </li>
+<ol> Intuito do estudo: analisar a maior dificuldade, entre transportadoras e regiões. Visando melhorar os números e a satisfação dos clientes em 2024. </ol>
+<li> Incluir uma aba informando as devoluções. </li>
+<li> Dados fictícios, criados por Allison Gomes. </li>
+</ul>
+
+<div> <h3> Próximos passos </h3>
 <ul>
 <li> Documentação </li>
 <ol> Definição: NOTION </ol>
@@ -14,14 +23,6 @@
 <ol> Relatório de Devoluções </ol>
 <li> Vincular no Power BI e gerar apresentação </li>
 </ul> </div>
-
-<h3> Entendimento do projeto: </h3>
-<ul>
-<li> Estudo de entregas, referente aos meses de junho e julho de 2023. Por ser os dois meses com maior criticidade nas entregas. Tendo o maior número de entregas feitas em atraso. </li>
-<ol> Intuito do estudo: analisar a maior dificuldade, entre transportadoras e regiões. Visando melhorar os números e a satisfação dos clientes em 2024. </ol>
-<li> Incluir uma aba informando as devoluções. </li>
-<li> Dados fictícios, criados por Allison Gomes. </li>
-</ul>
 
 
 <h4> Etapas descritas do Notion </h4>
