@@ -14,7 +14,7 @@ Intuito do estudo: analisar a maior dificuldade, entre transportadoras e regiõe
 
 <div> <ul>
 <li> Documentação </li>
-<li text-decoration="none";> Definição: Notion </li>
+<li text-decoration=none;> Definição: Notion </li>
 <li> Modelagem: Lucidchart </li>
 <li> Banco de dados: SQL </li>
 <li> Dashboard: Power BI </li>
