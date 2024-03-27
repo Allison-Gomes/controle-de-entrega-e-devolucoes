@@ -166,10 +166,10 @@ Tabela BASE_DE_NOTAS e REGIÕES importadas do SQL e tabela das Devoluções impo
 
 
 <h3> Resultado Dashboard <h3/>
-Link Power BI: <a href="https://app.powerbi.com/view?r=eyJrIjoiYmVlYWJlYTItMWQzYi00MjBkLTg4MjQtNzI1YjVkNjhmNTA3IiwidCI6IjlkOTQwNWRlLTYwNTctNDM2MS1hMTMwLWM0ZTZlYTdjMjk4MCJ9
-">DASHBOARD</a> <br>
+Link Power BI: <a href="https://app.powerbi.com/view?r=eyJrIjoiYmVlYWJlYTItMWQzYi00MjBkLTg4MjQtNzI1YjVkNjhmNTA3IiwidCI6IjlkOTQwNWRlLTYwNTctNDM2MS1hMTMwLWM0ZTZlYTdjMjk4MCJ9"> DASHBOARD </a> <br>
 
 
-![image](https://github.com/Allison-Gomes/controle-de-entrega-e-devolucoes/assets/126164923/3e2f031c-23b7-479e-a7ef-fe2b29366189) <br/>
+![image](https://github.com/Allison-Gomes/controle-de-entrega-e-devolucoes/assets/126164923/328d0764-908d-4cea-b76f-8a0efeced8db) <br/>
   
-![image](https://github.com/Allison-Gomes/controle-de-entrega-e-devolucoes/assets/126164923/607c11ed-b8bf-42e9-8a5e-b59c55f0fc29)
+![image](https://github.com/Allison-Gomes/controle-de-entrega-e-devolucoes/assets/126164923/b79d6cb2-c51d-47d7-8351-69eb1c085529)
+
