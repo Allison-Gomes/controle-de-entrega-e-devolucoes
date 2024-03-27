@@ -37,41 +37,41 @@
 
 <h3> Banco de dados: SQL </h3>
 
-<h4> Criação da tabela BASE DE NOTAS </h4>
+<div><h4> Criação da tabela BASE DE NOTAS </h4>
 CREATE TABLE [BASE DE NOTAS] ( <br>
-[RAZAO SOCIAL TRANSPORTADOR] [VARCHAR] (150), <br/>
-[NOME FANTASIA] [VARCHAR] (100), <br/>
-[CNPJ TRANSPORTADOR] [CHAR] (14), <br/>
-[EMBARCADOR] [CHAR] (12), <br/>
-[CNPJ EMITENTE] [CHAR] (14), <br/>
-[CIDADE ORIGEM] [VARCHAR] (100), <br/>
-[UF ORIGEM] [CHAR] (2), <br/>
-[NRO NF] [VARCHAR] (10), <br/>
-[SERIE NF] [SMALLINT], <br/>
-[ROMANEIO] [CHAR] (15), <br/>
-[QTD VOLUMES] [VARCHAR] (5), <br/>
-[PESO] [FLOAT], <br/>
-[CUBAGEM] [FLOAT], <br/>
-[VALOR UNITARIO] [MONEY], <br/>
-[CNPJ CLIENTE] [CHAR] (14), <br/>
-[CLIENTE] [VARCHAR] (150), <br/>
-[CIDADE DESTINO] [VARCHAR] (100), <br/>
-[UF DESTINO] [CHAR] (2), <br/>
-[BAIRRO DESTINO] [VARCHAR] (100), <br/>
-[LOGRADOURO DESTINO] [VARCHAR] (150), <br/>
-[CEP DESTINO] [CHAR] (8), <br/>
-[DATA EMISSAO] [DATE], <br/>
-[DATA EMBARQUE] [DATE], <br/>
-[DATA INI. TRANSP.] [DATE], <br/>
-[PREVISÃO DE ENTREGA] [DATE], <br/>
-[DATA ENTREGA OPERAÇÃO] [DATE], <br/>
-[STATUS DE ENTREGA] [VARCHAR] (100), <br/>
-[COD. TRANSP.] [CHAR] (9) NOT NULL PRIMARY KEY, <br/>
-[MODAL] [VARCHAR] (10), <br/>
-[TIPO DE CARGA] [VARCHAR] (20), <br/>
-[CONDIÇÃO DE FRETE] [CHAR] (9), <br/>
-[NATUREZA DA MERCADORIA] [CHAR] (21), <br/>
-); <br/>
+[RAZAO SOCIAL TRANSPORTADOR] [VARCHAR] (150), <br>
+[NOME FANTASIA] [VARCHAR] (100), <br>
+[CNPJ TRANSPORTADOR] [CHAR] (14), <br>
+[EMBARCADOR] [CHAR] (12), <br>
+[CNPJ EMITENTE] [CHAR] (14), <br>
+[CIDADE ORIGEM] [VARCHAR] (100), <br>
+[UF ORIGEM] [CHAR] (2), <br>
+[NRO NF] [VARCHAR] (10), <br>
+[SERIE NF] [SMALLINT], <br>
+[ROMANEIO] [CHAR] (15), <br>
+[QTD VOLUMES] [VARCHAR] (5), <br>
+[PESO] [FLOAT], <br>
+[CUBAGEM] [FLOAT], <br>
+[VALOR UNITARIO] [MONEY], <br>
+[CNPJ CLIENTE] [CHAR] (14), <br>
+[CLIENTE] [VARCHAR] (150), <br>
+[CIDADE DESTINO] [VARCHAR] (100), <br>
+[UF DESTINO] [CHAR] (2), <br>
+[BAIRRO DESTINO] [VARCHAR] (100), <br>
+[LOGRADOURO DESTINO] [VARCHAR] (150), <br>
+[CEP DESTINO] [CHAR] (8), <br>
+[DATA EMISSAO] [DATE], <br>
+[DATA EMBARQUE] [DATE], <br>
+[DATA INI. TRANSP.] [DATE], <br>
+[PREVISÃO DE ENTREGA] [DATE], <br>
+[DATA ENTREGA OPERAÇÃO] [DATE], <br>
+[STATUS DE ENTREGA] [VARCHAR] (100), <br>
+[COD. TRANSP.] [CHAR] (9) NOT NULL PRIMARY KEY, <br>
+[MODAL] [VARCHAR] (10), <br>
+[TIPO DE CARGA] [VARCHAR] (20), <br>
+[CONDIÇÃO DE FRETE] [CHAR] (9), <br>
+[NATUREZA DA MERCADORIA] [CHAR] (21), <br>
+); <br> </div>
 
 ![image](https://github.com/Allison-Gomes/controle-de-entrega-e-devolucoes/assets/126164923/540ec89b-197a-4314-8f6c-c2907b93eeb0)
 
